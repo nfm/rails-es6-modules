@@ -1,0 +1,7 @@
+{
+  "name": "ES6",
+  "dependencies": {
+    "es6-module-loader": "0.14.0",
+    "system.js": "0.14.1"
+  }
+}
